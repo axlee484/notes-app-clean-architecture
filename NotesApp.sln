@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Api", "NotesApp.Api\NotesApp.Api.csproj", "{A1941AF5-1095-46C6-B5F8-C71D6F6AE6D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Application", "NotesApp.Application\NotesApp.Application.csproj", "{B462A3ED-7C25-4B2C-B9DD-7CDB93167861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Domain", "NotesApp.Domain\NotesApp.Domain.csproj", "{6F53249E-BD1B-4560-AEFE-31B1F536D9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Infrastructure", "NotesApp.Infrastructure\NotesApp.Infrastructure.csproj", "{DF7F70F0-F40F-45E6-91F1-E4B47768AB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1941AF5-1095-46C6-B5F8-C71D6F6AE6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1941AF5-1095-46C6-B5F8-C71D6F6AE6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1941AF5-1095-46C6-B5F8-C71D6F6AE6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1941AF5-1095-46C6-B5F8-C71D6F6AE6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B462A3ED-7C25-4B2C-B9DD-7CDB93167861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B462A3ED-7C25-4B2C-B9DD-7CDB93167861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B462A3ED-7C25-4B2C-B9DD-7CDB93167861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B462A3ED-7C25-4B2C-B9DD-7CDB93167861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F53249E-BD1B-4560-AEFE-31B1F536D9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F53249E-BD1B-4560-AEFE-31B1F536D9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F53249E-BD1B-4560-AEFE-31B1F536D9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F53249E-BD1B-4560-AEFE-31B1F536D9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7F70F0-F40F-45E6-91F1-E4B47768AB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7F70F0-F40F-45E6-91F1-E4B47768AB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7F70F0-F40F-45E6-91F1-E4B47768AB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7F70F0-F40F-45E6-91F1-E4B47768AB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
